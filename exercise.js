@@ -26,6 +26,7 @@ let onCoast = true
 9. Based on the varaibles you created create a variable `description` which contains a string with this format *'YOURCOUNTRY is in YOURCONTINENET and its YOURPOPULATION million people speak YOURLANGUAGE'*
 */
 
+//6&6
 population = 4000000/2;
 population++
 console.log(population)
@@ -96,7 +97,6 @@ console.log("most number of native speakers")
     console.log("Great languages too")
 }
 /* The conditional (Ternary) operator
-age>10?console.log(your age older than 10):console.log(your not)
  14. If your country's population is greater than 33 million, use the ternary operator to log a string like this to the console:
   'YOURCOUNTRY's population is above average'. Otherwise, simply log 'YOURCOUNTRY's population is below average'
   */
