@@ -6,14 +6,14 @@
 
 
 
-## Basic operators exercise
+/*## Basic operators exercise
 
 5. Half the population of your country
 6. Increase the population by 1 and log the result to the console
 7. Finland has a population of 6 million. Does your country have more people than Finland
 8. The avarage population of a country is 33 million using comparions operators is your countries population have less people than the average country
 9. Based on the varaibles you created create a variable `description` which contains a string with this format *'YOURCOUNTRY is in YOURCONTINENET and its YOURPOPULATION million people speak YOURLANGUAGE'*
-
+*/
 ## If & Else statements 
 
 10. if your countries population is greater than 33 million, log a string like this to the console *'YOURCOUNTRY's population is above average'* otherwise, log a string like *'YOURCOUNTRY's population is YOURPOPULATION, bellow average'*
