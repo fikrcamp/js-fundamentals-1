@@ -31,6 +31,3 @@
 **hindi:** 'Number 4'
 **arabic:** '5th most spoken language'
  for all other simply log 'Great languages too :)'
-
- ## The conditional (Ternary) operator
- 14. If your country's population is greater than 33 million, use the ternary operator to log a string like this to the console: 'YOURCOUNTRY's population is above average'. Otherwise, simply log 'YOURCOUNTRY's population is below average'
